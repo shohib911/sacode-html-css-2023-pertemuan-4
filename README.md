@@ -1,2 +1,2 @@
 # sacode-html-css-2023-pertemuan-4
-belajar tentang pembuatan list
+belajar tentang pembuatan list pada struktur HTML CSS
